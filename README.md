@@ -2,7 +2,7 @@
 
 An explainable model that reads four ultrasonic distance sensors on a wall-following robot and says what the robot should do next, along with the probability of every possible action.
 
-**Live demo:** _add your GitHub Pages link here_
+**Live demo:** (https://prince01104.github.io/Bayesian-Robot-Navigator-/)
 
 ![accuracy](https://img.shields.io/badge/test%20accuracy-95.89%25-brightgreen) ![model](https://img.shields.io/badge/model-Bayesian%20network-blue) ![data](https://img.shields.io/badge/data-UCI%20Wall--Following-orange)
 
